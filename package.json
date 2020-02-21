@@ -97,10 +97,6 @@
     ]
   },
   "description": "React + ExpressJS project that creates stories in JIRA and other platforms.",
-  "repository": {
-    "type": "git",
-    "url": "git@huge-git.it.savvis.net:gocmat/hedwig.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC"

@@ -1,0 +1,22 @@
+{
+    "extends": [
+        "airbnb", 
+        "prettier", 
+        "prettier/react"
+    ],
+    "ignorePatterns": ["build/", "node_modules/", "public/", "src/App.test.js", "src/ServiceWorker.js"],
+    "parser": "babel-eslint",
+    "plugins": ["prettier"],
+    "parserOptions":{
+        "ecmaVersion": 2016,
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "jsx": true
+        }
+    },
+    "env": {
+        "es6": true,
+        "browser": true,
+        "node": true
+    }
+}

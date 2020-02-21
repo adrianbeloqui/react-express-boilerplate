@@ -1,0 +1,11 @@
+node_modules
+public
+src
+api
+yarn.lock
+.gitignore
+*.md
+*.env
+webpack.config.js
+server.js
+Dockerfile
